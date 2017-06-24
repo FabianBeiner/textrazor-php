@@ -1,5 +1,7 @@
 # TextRazor/textrazor-php
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/247a6b05733344be9f7bcb1ce2e2f587)](https://www.codacy.com/app/FabianBeiner/textrazor-php?utm_source=github.com&utm_medium=referral&utm_content=FabianBeiner/textrazor-php&utm_campaign=badger)
+
 **PHP SDK for the TextRazor Text Analytics API.** 
 
 TextRazor offers state-of-the-art natural language processing tools through a simple API, allowing you to build semantic technology into your applications in minutes.  
